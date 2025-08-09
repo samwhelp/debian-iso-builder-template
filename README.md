@@ -13,6 +13,9 @@
 | [debian-iso-builder-engine-develop](https://samwhelp.github.io/debian-iso-builder-engine-develop/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-engine-develop) |
 
 
+> Currently based on [Debian 13 Trixie](https://samwhelp.github.io/note-about-debian/read/link/release/debian-13-trixie.html)
+
+
 
 
 ## Subject
