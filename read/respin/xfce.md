@@ -38,5 +38,5 @@ parent: Respin
 | ---- | ------ |
 | [deb-coffee](https://samwhelp.github.io/deb-coffee/) | [GitHub](https://github.com/samwhelp/deb-coffee) |
 | [Pacstall / Note](https://samwhelp.github.io/note-about-pacstall/) | [GitHub](https://github.com/samwhelp/note-about-pacstall) |
-| [Xdebian / Note](https://samwhelp.github.io/note-about-xdebian/) | [GitHub](https://github.com/samwhelp/note-about-xdebian) |
-| [Xdebian / Adjustment](https://samwhelp.github.io/xdebian-adjustment/) | [GitHub](https://github.com/samwhelp/xdebian-adjustment) |
+| [Debian Xfce / Note](https://samwhelp.github.io/note-about-debian-xfce/) | [GitHub](https://github.com/samwhelp/note-about-debian-xfce) |
+| [Debian Xfce / Adjustment](https://samwhelp.github.io/debian-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/debian-xfce-adjustment) |

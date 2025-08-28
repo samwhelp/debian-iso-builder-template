@@ -38,5 +38,5 @@ parent: Respin
 | ---- | ------ |
 | [deb-coffee](https://samwhelp.github.io/deb-coffee/) | [GitHub](https://github.com/samwhelp/deb-coffee) |
 | [Pacstall / Note](https://samwhelp.github.io/note-about-pacstall/) | [GitHub](https://github.com/samwhelp/note-about-pacstall) |
-| [Ubuntu Gnome Shell / Note](https://samwhelp.github.io/note-about-debian-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-debian-gnome-shell) |
-| [Ubuntu Gnome Shell / Adjustment](https://samwhelp.github.io/debian-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/debian-gnome-shell-adjustment) |
+| [Debian Gnome Shell / Note](https://samwhelp.github.io/note-about-debian-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-debian-gnome-shell) |
+| [Debian Gnome Shell / Adjustment](https://samwhelp.github.io/debian-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/debian-gnome-shell-adjustment) |

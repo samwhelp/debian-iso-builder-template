@@ -38,5 +38,5 @@ parent: Respin
 | ---- | ------ |
 | [deb-coffee](https://samwhelp.github.io/deb-coffee/) | [GitHub](https://github.com/samwhelp/deb-coffee) |
 | [Pacstall / Note](https://samwhelp.github.io/note-about-pacstall/) | [GitHub](https://github.com/samwhelp/note-about-pacstall) |
-| [Ubuntu Cinnamon / Note](https://samwhelp.github.io/note-about-debian-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-debian-cinnamon) |
-| [Ubuntu Cinnamon / Adjustment](https://samwhelp.github.io/debian-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/debian-cinnamon-adjustment) |
+| [Debian Cinnamon / Note](https://samwhelp.github.io/note-about-debian-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-debian-cinnamon) |
+| [Debian Cinnamon / Adjustment](https://samwhelp.github.io/debian-cinnamon-adjustment/) | [GitHub](https://github.com/samwhelp/debian-cinnamon-adjustment) |
