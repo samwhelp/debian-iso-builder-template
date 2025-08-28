@@ -23,6 +23,8 @@
 
 ## Respin
 
+> [More...](https://samwhelp.github.io/debian-iso-builder-template/read/respin.html)
+
 | Remix | Respin |
 | ----- | ------ |
 | [debian-iso-builder-remix-gnome-shell](https://github.com/samwhelp/debian-iso-builder-remix-gnome-shell) | [debian-iso-builder-respin-gnome-shell](https://github.com/samwhelp/debian-iso-builder-respin-gnome-shell) |
