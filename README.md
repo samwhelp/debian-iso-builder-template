@@ -19,6 +19,7 @@
 
 * [Docker](#docker)
 * [Respin](#respin)
+* [Live Account](#live-account)
 * [Link](#link)
 
 
@@ -53,6 +54,30 @@
 | ----- | ------ |
 | [debian-iso-builder-remix-lxqt-with-kwin](https://github.com/samwhelp/debian-iso-builder-remix-lxqt-with-kwin) | [debian-iso-builder-respin-lxqt-with-kwin](https://github.com/samwhelp/debian-iso-builder-respin-lxqt-with-kwin) |
 | [debian-iso-builder-remix-mate-with-compiz](https://github.com/samwhelp/debian-iso-builder-remix-mate-with-compiz) | [debian-iso-builder-respin-mate-with-compiz](https://github.com/samwhelp/debian-iso-builder-respin-mate-with-compiz) |
+
+
+
+
+## Live Account
+
+| Account  | Value  |
+| -------- | ------ |
+| Username | `live` |
+| Password | `live` |
+
+
+To change the password for the current account, you can run the following command:
+
+``` sh
+sudo passwd $(whoami)
+```
+
+
+To remove the password for the current account, you can run the following command:
+
+``` sh
+sudo passwd -d $(whoami)
+```
 
 
 
